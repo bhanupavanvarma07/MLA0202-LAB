@@ -23,3 +23,5 @@ new_car = pd.DataFrame({
 price = model.predict(new_car)
 
 print("Predicted Car Price: ₹",round(price[0],2))
+
+print("Tirumalaraju Bhanu Pavan Varma - 192425380")
