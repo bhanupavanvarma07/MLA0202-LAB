@@ -24,3 +24,5 @@ sample = [[5.1,3.5,1.4,0.2]]
 result = model.predict(sample)
 
 print("Predicted Flower:",iris.target_names[result[0]])
+
+print("Tirumalaraju Bhanu Pavan Varma - 192425380")
